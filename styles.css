@@ -1,0 +1,16 @@
+.data-table {
+    display: inline;
+    width: 90%;
+  }
+  
+  .date {
+    float: right;
+  }
+  
+  .intern_id {
+    text-align: right;
+  }
+  
+  .chart {
+    margin-top: 20px;
+  }
